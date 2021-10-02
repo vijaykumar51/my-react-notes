@@ -1,0 +1,21 @@
+Options to add styling in React app
+	1. Create a css file and import it in the component file. In the component file, add a class to the html element using className.
+		1.1. Check for specificity and overrides in different css files.
+		1.2. Verify local vs global css. 
+		1.3. Check for generated html and css.
+	2. Css modules - Create component specific css module and import it in the component. In component, access the classes written in the module using {styled.className}
+	3. Styled components - This uses a package styled-components. 
+		3.1. Easier to create component scoped styles.
+		3.2. You can pass props just like another component.
+		3.3. In-build theming options.
+	4. Utility CSS like Tailwind. You download tailwind and then directly add classes to the html.
+		4.1. Not react way of writing code.
+		4.2. Twin.macro enables you to use tailwind in styled component way. 
+		4.3. Useful when you don't want to write CSS on your own.
+
+		
+		
+		
+		
+
+References - https://www.youtube.com/watch?v=DXikBH-LCF4
