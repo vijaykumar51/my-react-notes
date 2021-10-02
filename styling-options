@@ -13,6 +13,8 @@ Options to add styling in React app
 		4.2. Twin.macro enables you to use tailwind in styled component way. 
 		4.3. Useful when you don't want to write CSS on your own.
 
+
+Study performance of CSS in JS vs native CSS way of writing code and what are the ways to fix these issues.
 		
 		
 		
